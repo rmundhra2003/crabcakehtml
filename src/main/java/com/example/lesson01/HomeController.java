@@ -25,4 +25,8 @@ public class HomeController {
     public String rasmalaiPage() {
         return "rasmalai";
     }
+    @RequestMapping("/baklava")
+    public String baklavaPage() {
+        return "baklava";
+    }
 }

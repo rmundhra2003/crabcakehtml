@@ -1,0 +1,43 @@
+body {
+    background-color:#F5F5DC;
+}
+
+h1 {
+    color:darkblue;
+    font-size: 40px;
+    text-align:center;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: serif;
+}
+
+p {
+    font-family: serif;
+    font-size: 15px;
+}
+ol {
+    background: #ff9999;
+    padding: 20px;
+}
+
+ul {
+    background: #3399ff;
+    padding: 20px;
+}
+
+ol li {
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+ul li {
+    background: #cce5ff;
+    margin: 5px;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
