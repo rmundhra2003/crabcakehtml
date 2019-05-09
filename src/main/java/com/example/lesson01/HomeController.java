@@ -13,4 +13,16 @@ public class HomeController {
     public String crabPage() {
         return "crabcake";
     }
+    @RequestMapping("/applepie")
+    public String applepiePage() {
+        return "applepie";
+    }
+    @RequestMapping("/gulabjamun")
+    public String gulabjamunPage() {
+        return "gulabjamun";
+    }
+    @RequestMapping("/rasmalai")
+    public String rasmalaiPage() {
+        return "rasmalai";
+    }
 }
